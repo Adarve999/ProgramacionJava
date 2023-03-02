@@ -1,0 +1,24 @@
+-classpath
+'C:/Users/Usuario/.m2/repository/org/netbeans/external/AbsoluteLayout/RELEASE126/AbsoluteLayout-RELEASE126.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'17'
+-sourcepath
+'G:/Mi unidad/2º cuatrimestre/3º programacion/laboratorio/Adarve - 21_22 - JavaComp/PL2-JavaComp/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2022. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'G:/Mi unidad/2º cuatrimestre/3º programacion/laboratorio/Adarve - 21_22 - JavaComp/PL2-JavaComp/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'PL2-JavaComp 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'PL2-JavaComp 1.0-SNAPSHOT API'

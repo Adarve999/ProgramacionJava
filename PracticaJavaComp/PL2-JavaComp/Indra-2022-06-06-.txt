@@ -1,0 +1,49 @@
+-------------------------------- Factura de Compra JavaComp --------------------------------
+
+
+Hora de emision de la factura: 2022-06-06
+
+
+nombre: Indra
+
+
+correo electronico: indra
+
+
+direccion: ( calle:alcantara         / numero: 26       / codigoPostal: 28860       / ciudad: Madrid  )
+
+
+Tfno: 1234
+
+
+*** Cliente Empresas ***
+
+
+CIF: 12345
+
+
+web: Indra.com
+
+
+nombre Producto:GTX 1080
+
+
+caracteristicas: 11GB GDDR5X
+
+
+categoria: Componentes
+
+
+Calificación: 3
+
+
+Comentario: 
+
+
+Precio de la compra total de los producto/s: 700.0€
+
+
+Precio + gastos envío (5 €) : 705.0€
+
+
+-------------------------------------------------------------------------------
